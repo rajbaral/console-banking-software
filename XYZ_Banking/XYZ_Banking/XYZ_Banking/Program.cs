@@ -134,7 +134,7 @@ namespace XYZ_Banking
                                         loggedInUserAct = bank._inMemoryDb.Find(a => a.Owner.UserName == username && a.Owner.Password == password);
                                         if (loggedInUserAct == null)
                                         {
-                                            Console.WriteLine("Invalid username or passpord.");
+                                            Console.WriteLine("Invalid username or password.");
                                             loginAttempts++;
                                         }
                                         else
@@ -152,7 +152,7 @@ namespace XYZ_Banking
                                     if (loginAttempts > 2)
                                     {
                                         Console.ForegroundColor = ConsoleColor.Red;
-                                        Console.WriteLine("We are not able to verify your identity! Please reset your password or try later");
+                                        Console.WriteLine("We are not able to verify your identity! Please reset your password or try again later");
                                         Console.ResetColor();
                                         Console.ReadKey();
                                     }

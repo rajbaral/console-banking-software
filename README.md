@@ -1,2 +1,11 @@
 # console-banking-software
- A console banking solution that can perform the different workflows like through a console  Create a new account, Login, Record a deposit, Record a withdrawal, Check balance, See transaction history and Log out
+I have created this real time console banking software which is used to perform the following workflows through a console, i.e. accessed via the command line
+
+1.	Create a new account
+2.	Login
+3.	Check balance
+4.	Record a deposit
+5.	Record a withdrawal
+6.	See transaction history
+7.	Log out
+
