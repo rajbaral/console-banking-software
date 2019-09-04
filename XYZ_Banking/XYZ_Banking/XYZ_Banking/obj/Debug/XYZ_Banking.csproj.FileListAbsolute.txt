@@ -15,3 +15,13 @@ Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\bin\Debug\NMemory.xml
 Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csproj.CopyComplete
 Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.exe
 Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.pdb
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csprojResolveAssemblyReference.cache
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csproj.CoreCompileInputs.cache
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.exe
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.pdb
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\bin\Debug\XYZ_Banking.exe.config
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\bin\Debug\XYZ_Banking.exe
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\bin\Debug\XYZ_Banking.pdb
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\bin\Debug\NMemory.dll
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\bin\Debug\NMemory.xml
+C:\Users\RajendraBaral\Documents\GitHub\console-banking-software\XYZ_Banking\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csproj.CopyComplete

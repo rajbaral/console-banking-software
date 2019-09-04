@@ -99,7 +99,7 @@ namespace XYZ_Banking
                                 var activityType = "create new account";
                                 var createdAccount = bank.CreateAccount(person, money);
 
-                                var bankTransection = new BankTransection(activityType);
+                                var bankTransection = new BankTransection(activityType, money);
                                 createdAccount.TransectionType.Add(bankTransection);
 
                                 Console.ForegroundColor = ConsoleColor.Green;
@@ -197,7 +197,7 @@ namespace XYZ_Banking
                                     bank.Deposit(loggedInUserAct, moneyDeposit);
 
                                     // record deposit activity
-                                    var bankTransection = new BankTransection(accountActivity);
+                                    var bankTransection = new BankTransection(accountActivity, moneyDeposit);
                                     loggedInUserAct.AddTransections(bankTransection);
 
                                     Console.ForegroundColor = ConsoleColor.Green;
@@ -227,7 +227,7 @@ namespace XYZ_Banking
                                     bank.Withdraw(loggedInUserAct, moneyToWithdraw);
 
                                     // record deposit activity
-                                    var bankTransection = new BankTransection(accountActivityType);
+                                    var bankTransection = new BankTransection(accountActivityType, moneyToWithdraw);
                                     loggedInUserAct.AddTransections(bankTransection);
 
                                     Console.ForegroundColor = ConsoleColor.Green;
@@ -252,7 +252,7 @@ namespace XYZ_Banking
                                     foreach (var i in accountTransection.SelectMany(k => k.TransectionType))
                                     {
                                         Console.ForegroundColor = ConsoleColor.Green;
-                                        Console.WriteLine("You did {0} on {1}\n", i.TransectionType, i.TransectionDate);
+                                        Console.WriteLine("You did {0} on {2} and the amount is ${1}\n", i.TransectionType, string.Format("{0:#.00}", Convert.ToDecimal(i.Money.Value)), i.TransectionDate);
                                         Console.ResetColor();
                                     }
                                 }

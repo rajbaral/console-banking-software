@@ -27,15 +27,18 @@ namespace XYZ_Banking
             person2.Email = "baral@gmail.com";
             person2.Password = "password2";
 
+            var money1 = new Money(2500);
+            var money2 = new Money(1800);
 
             string accountActivity = "create new account";
-            BankTransection transection = new BankTransection(accountActivity);
+            BankTransection transection1 = new BankTransection(accountActivity, money1);
+            BankTransection transection2 = new BankTransection(accountActivity, money2);
 
-            Account acount1 = new Account(new Money(2500), person1);
-            acount1.TransectionType.Add(transection);
+            Account acount1 = new Account(money1, person1);
+            acount1.TransectionType.Add(transection1);
 
-            Account acount2 = new Account(new Money(1800), person2);
-            acount2.TransectionType.Add(transection);
+            Account acount2 = new Account(money2, person2);
+            acount2.TransectionType.Add(transection2);
 
             List<Account> accountList = new List<Account>();
 
