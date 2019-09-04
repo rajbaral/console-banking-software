@@ -1,0 +1,17 @@
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\bin\Debug\DIPS-Challenge.exe.config
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\bin\Debug\DIPS-Challenge.exe
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\bin\Debug\DIPS-Challenge.pdb
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\obj\Debug\XYZ_Banking.csprojResolveAssemblyReference.cache
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\obj\Debug\XYZ_Banking.csproj.CoreCompileInputs.cache
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\obj\Debug\DIPS-Challenge.exe
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPS-Challenge\obj\Debug\DIPS-Challenge.pdb
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csprojResolveAssemblyReference.cache
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csproj.CoreCompileInputs.cache
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\bin\Debug\XYZ_Banking.exe.config
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\bin\Debug\XYZ_Banking.exe
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\bin\Debug\XYZ_Banking.pdb
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\bin\Debug\NMemory.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\bin\Debug\NMemory.xml
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.csproj.CopyComplete
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.exe
+Z:\APP & PROJECTS\XYZ_Banking\XYZ_Banking\obj\Debug\XYZ_Banking.pdb

@@ -1,0 +1,51 @@
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPSUnitTesting.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPSUnitTesting.pdb
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPS-Challenge.exe
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPS-Challenge.pdb
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPS-Challenge.exe.config
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\XYZUnitTesting.csprojResolveAssemblyReference.cache
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\XYZUnitTesting.csproj.CoreCompileInputs.cache
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\XYZUnitTesting.csproj.CopyComplete
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.pdb
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.csprojResolveAssemblyReference.cache
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.csproj.CoreCompileInputs.cache
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZUnitTesting.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZUnitTesting.pdb
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZ_Banking.exe
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZ_Banking.pdb
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZ_Banking.exe.config
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.csproj.CopyComplete
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.dll
+Z:\APP & PROJECTS\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.pdb
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZUnitTesting.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZUnitTesting.pdb
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZ_Banking.exe
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZ_Banking.pdb
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\XYZ_Banking.exe.config
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.csproj.CopyComplete
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.dll
+C:\Users\RajendraBaral\Downloads\XYZ_Banking\XYZ_Banking\XYZUnitTesting\obj\Debug\XYZUnitTesting.pdb

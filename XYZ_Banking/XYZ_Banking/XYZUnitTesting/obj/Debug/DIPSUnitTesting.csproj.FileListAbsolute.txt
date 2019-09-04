@@ -1,0 +1,17 @@
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPSUnitTesting.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPSUnitTesting.pdb
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPS-Challenge.exe
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPS-Challenge.pdb
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\DIPS-Challenge.exe.config
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.csprojResolveAssemblyReference.cache
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.csproj.CoreCompileInputs.cache
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.csproj.CopyComplete
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.dll
+Z:\APP & PROJECTS\DIPS-Challenge-2e0ea4fdcab1b5ccf15db4f4d81e690d468d3667\DIPSUnitTesting\obj\Debug\DIPSUnitTesting.pdb
